@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nexxio</string>
+    <string name="comments_title">Provide Comments?</string>
+    <string name="comment_placeholder">Type Comment</string>
+    <string name="radio_button_one">Option 1</string>
+    <string name="radio_button_two">Option 2</string>
+    <string name="radio_button_three">Option 3</string>
+    <string name="submit_button">Submit</string>
+    <string name="submit">Submit</string>
+</resources>
